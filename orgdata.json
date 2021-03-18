@@ -20,8 +20,8 @@
       },
       "nodeImage":{
          "url":"https://raw.githubusercontent.com/RajaGds/OrgChart/main/images/1_dylan.png",
-         "width":75,
-         "height":75,
+         "width":100,
+         "height":100,
          "centerTopDistance":0,
          "centerLeftDistance":0,
          "cornerShape":"CIRCLE",
@@ -40,7 +40,10 @@
             "alpha":1
          }
       },
-      
+      "nodeIcon":{
+         "icon":"https://to.ly/1yZnX",
+         "size":30
+      },
       "template":"<div>\n <div style=\"margin-left:70px;\n margin-top:10px;\n font-size:20px;\n font-weight:bold;\n \">Dylan Robertson </div>\n <div style=\"margin-left:70px;\n  margin-top:3px;\n font-size:16px;\n \">Delivery Head</div>\n\n <div style=\"margin-left:70px;\n  margin-top:3px;\n  font-size:14px;\n   \">Sr.Manager | Trivandrum </div>\n\n</div>",
       "connectorLineColor":{
          "red":220,
@@ -85,7 +88,7 @@
          "blue":255,
          "alpha":1
       },
-		 "borderWidth":3,
+		 "borderWidth":5,
          "borderColor":{
             "red":53,
             "green":164,
@@ -93,8 +96,11 @@
             "alpha":1
          }
       },
-      
-      "template":"<div>\n <div style=\"margin-left:70px;\n margin-top:10px;\n font-size:20px;\n font-weight:bold;\n \">Geoger Maier </div>\n <div style=\"margin-left:70px;\n  margin-top:3px;\n font-size:16px;\n \">Senior Architect</div>\n\n <div style=\"margin-left:70px;\n  margin-top:3px;\n  font-size:14px;\n   \">Manager | Bangalore </div>\n\n</div>",
+      "nodeIcon":{
+         "icon":"https://to.ly/1yZnX",
+         "size":30
+      },
+      "template":"<div>\n                  <div style=\"margin-left:70px;\n                              margin-top:10px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \">Davolio Nancy </div>\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">CTO  </div>\n\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \">Business one</div>\n\n                 <div style=\"margin-left:190.5px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div>CEO office</div>\n                      <div style=\"margin-top:5px\">Corporate</div>\n                 </div>\n              </div>",
       "connectorLineColor":{
          "red":220,
          "green":189,
@@ -132,13 +138,13 @@
          "centerLeftDistance":0,
          "cornerShape":"CIRCLE",
          "shadow":false,
+         "borderWidth":0,
 		 "backgroundColor":{
          "red":255,
          "green":255,
          "blue":255,
          "alpha":1
       },
-	  "borderWidth":3,
          "borderColor":{
             "red":52,
             "green":199,
@@ -146,8 +152,11 @@
             "alpha":1
          }
       },
-      
-      "template":"<div>\n <div style=\"margin-left:70px;\n margin-top:10px;\n font-size:20px;\n font-weight:bold;\n \">Joe Mills </div>\n <div style=\"margin-left:70px;\n  margin-top:3px;\n font-size:16px;\n \">Senior Architect</div>\n\n <div style=\"margin-left:70px;\n  margin-top:3px;\n  font-size:14px;\n   \">Manager | Trivandrum </div>\n\n</div>",
+      "nodeIcon":{
+         "icon":"https://to.ly/1yZnX",
+         "size":30
+      },
+      "template":"<div>\n                  <div style=\"margin-left:70px;\n                              margin-top:10px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \"> Leverling Janet </div>\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">CTO  </div>\n\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \">Business two </div>\n\n                 <div style=\"margin-left:199px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div>CEO office</div>\n                      <div style=\"margin-top:5px\">Corporate</div>\n                 </div>\n              </div>",
       "connectorLineColor":{
          "red":220,
          "green":189,
@@ -185,13 +194,13 @@
          "centerLeftDistance":0,
          "cornerShape":"CIRCLE",
          "shadow":false,
+         "borderWidth":0,
 		 "backgroundColor":{
          "red":255,
          "green":255,
          "blue":255,
          "alpha":1
       },
-	  "borderWidth":3,
          "borderColor":{
             "red":146,
             "green":43,
@@ -199,8 +208,11 @@
             "alpha":1
          }
       },
-      
-      "template":"<div>\n <div style=\"margin-left:70px;\n margin-top:10px;\n font-size:20px;\n font-weight:bold;\n \">Ryan Harp </div>\n <div style=\"margin-left:70px;\n  margin-top:3px;\n font-size:16px;\n \">Senior Architect</div>\n\n <div style=\"margin-left:70px;\n  margin-top:3px;\n  font-size:14px;\n   \">Manager | Trivandrum </div>\n\n</div>",
+      "nodeIcon":{
+         "icon":"https://to.ly/1yZnX",
+         "size":30
+      },
+      "template":"<div>\n                  <div style=\"margin-left:70px;\n                              margin-top:10px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \"> Leverling Janet </div>\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">CTO  </div>\n\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \">Business three</div>\n\n                 <div style=\"margin-left:197.5px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div>CEO office</div>\n                      <div style=\"margin-top:5px\">Corporate</div>\n                 </div>\n              </div>",
       "connectorLineColor":{
          "red":220,
          "green":189,
