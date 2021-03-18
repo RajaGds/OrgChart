@@ -124,7 +124,6 @@
          "blue":121,
          "alpha":1
       },
-	  "borderWidth":5,
       "backgroundColor":{
          "red":51,
          "green":182,
@@ -139,13 +138,13 @@
          "centerLeftDistance":0,
          "cornerShape":"CIRCLE",
          "shadow":false,
-         "borderWidth":0,
 		 "backgroundColor":{
          "red":255,
          "green":255,
          "blue":255,
          "alpha":1
       },
+	  	  "borderWidth":5,
          "borderColor":{
             "red":52,
             "green":199,
