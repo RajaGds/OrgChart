@@ -25,7 +25,7 @@
          "centerTopDistance":0,
          "centerLeftDistance":0,
          "cornerShape":"CIRCLE",
-         "shadow":false,
+         "shadow":true,
 		 "backgroundColor":{
          "red":255,
          "green":255,
@@ -44,7 +44,7 @@
          "icon":"https://to.ly/1yZnX",
          "size":30
       },
-      "template":"<div>\n <div style=\"margin-left:70px;\n margin-top:10px;\n font-size:20px;\n font-weight:bold;\n \">Dylan Robertson </div>\n <div style=\"margin-left:70px;\n  margin-top:3px;\n font-size:16px;\n \">Delivery Head</div>\n\n <div style=\"margin-left:70px;\n  margin-top:3px;\n  font-size:14px;\n   \">Sr.Manager | Trivandrum </div>\n\n</div>",
+      "template":"<div>\n <div style=\"margin-left:70px;\n margin-top:10px;\n font-size:20px;\n cursor: pointer;\n font-weight:bold;\n \"> <a href='https://github.com/bumbeishvili/d3-organization-chart'> Dylan Robertson </a> </div>\n <div style=\"margin-left:70px;\n  margin-top:3px;\n font-size:16px;\n \">Delivery Head</div>\n\n <div style=\"margin-left:70px;\n  margin-top:3px;\n  font-size:14px;\n   \">Sr.Manager | Trivandrum </div>\n\n</div>",
       "connectorLineColor":{
          "red":220,
          "green":189,
