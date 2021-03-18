@@ -58,8 +58,8 @@
    {
       "nodeId":"O-2",
       "parentNodeId":"O-1",
-      "width":331,
-      "height":139,
+      "width":327,
+      "height":100,
       "borderWidth":1,
       "borderRadius":5,
       "borderColor":{
@@ -100,7 +100,7 @@
          "icon":"https://to.ly/1yZnX",
          "size":30
       },
-      "template":"<div>\n                  <div style=\"margin-left:70px;\n                              margin-top:10px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \">Davolio Nancy </div>\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">CTO  </div>\n\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \">Business one</div>\n\n                 <div style=\"margin-left:190.5px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div>CEO office</div>\n                      <div style=\"margin-top:5px\">Corporate</div>\n                 </div>\n              </div>",
+      "template":"<div>\n                  <div style=\"margin-left:70px;\n                              margin-top:10px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \">Gregor Maier </div>\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">Senior Architect  </div>\n\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \">Manager | Bangalore</div>\n\n                 <div style=\"margin-left:190.5px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div>CEO office</div>\n                      <div style=\"margin-top:5px\">Corporate</div>\n                 </div>\n              </div>",
       "connectorLineColor":{
          "red":220,
          "green":189,
@@ -114,8 +114,8 @@
    {
       "nodeId":"O-3",
       "parentNodeId":"O-1",
-      "width":348,
-      "height":147,
+      "width":327,
+      "height":100,
       "borderWidth":1,
       "borderRadius":5,
       "borderColor":{
@@ -124,6 +124,7 @@
          "blue":121,
          "alpha":1
       },
+	  "borderWidth":5,
       "backgroundColor":{
          "red":51,
          "green":182,
@@ -170,8 +171,8 @@
    {
       "nodeId":"O-4",
       "parentNodeId":"O-1",
-      "width":345,
-      "height":140,
+      "width":330,
+      "height":100,
       "borderWidth":1,
       "borderRadius":5,
       "borderColor":{
@@ -201,6 +202,7 @@
          "blue":255,
          "alpha":1
       },
+	  	"borderWidth":5,
          "borderColor":{
             "red":146,
             "green":43,
