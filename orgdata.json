@@ -26,11 +26,17 @@
          "centerLeftDistance":0,
          "cornerShape":"CIRCLE",
          "shadow":false,
-         "borderWidth":0,
+		 "backgroundColor":{
+         "red":255,
+         "green":255,
+         "blue":255,
+         "alpha":1
+      },
+         "borderWidth":5,
          "borderColor":{
-            "red":19,
-            "green":123,
-            "blue":128,
+            "red":255,
+            "green":230,
+            "blue":0,
             "alpha":1
          }
       },
@@ -38,7 +44,7 @@
          "icon":"https://to.ly/1yZnX",
          "size":30
       },
-      "template":"<div>\n <div style=\"margin-left:70px;\n margin-top:10px;\n font-size:20px;\n font-weight:bold;\n \">Ian Devling </div>\n <div style=\"margin-left:70px;\n  margin-top:3px;\n font-size:16px;\n \">Cheaf Executive Officer  </div>\n\n <div style=\"margin-left:70px;\n  margin-top:3px;\n  font-size:14px;\n   \">Business first</div>\n\n                 <div style=\"margin-left:196px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div>CTO office</div>\n                      <div style=\"margin-top:5px\">Corporate</div>\n                 </div>\n              </div>",
+      "template":"<div>\n <div style=\"margin-left:70px;\n margin-top:10px;\n font-size:20px;\n font-weight:bold;\n \">Dylan Robertson </div>\n <div style=\"margin-left:70px;\n  margin-top:3px;\n font-size:16px;\n \">Delivery Head</div>\n\n <div style=\"margin-left:70px;\n  margin-top:3px;\n  font-size:14px;\n   \">Sr.Manager | Trivandrum </div>\n\n</div>",
       "connectorLineColor":{
          "red":220,
          "green":189,
