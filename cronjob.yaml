@@ -3,7 +3,7 @@ kind: CronJob
 metadata:
   name: movedemo
 spec:
-  schedule: */2 * * * * /usr/bin/rsync From TO
+  schedule: */2 * * * * rsync From TO
   jobTemplate:
     spec:
       template:
