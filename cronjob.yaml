@@ -1,0 +1,19 @@
+apiVersion: batch/v1beta1
+kind: CronJob
+metadata:
+  name: movedemo
+spec:
+  schedule: */2 * * * * /usr/bin/rsync C:\From C:\TO
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+          - name: movedemo
+            image: busybox
+            imagePullPolicy: IfNotPresent
+            command:
+            - /bin/sh
+            - -c
+            - date; echo Hello from the Kubernetes cluster
+          restartPolicy: OnFailure
